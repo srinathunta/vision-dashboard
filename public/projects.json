@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "company": "Chakra Vision UI Version",
+    "completion": "60",
+    "budget": "$14,000",
+    "members": [
+      {
+        "name": "mojombo",
+        "profile": "mojombo.jpg"
+      },
+      {
+        "name": "defunkt",
+        "profile": "defunkt.jpg"
+      },
+      {
+        "name": "pjhyett",
+        "profile": "pjhyett.jpg"
+      },
+      {
+        "name": "wycats",
+        "profile": "wycats.jpg"
+      }
+    ],
+    "clogo": "xd_icon.png"
+  },
+  {
+    "id": 2,
+    "company": "Add Progress Track",
+    "completion": "10",
+    "budget": "$3,000",
+    "members": [
+      {
+        "name": "mojombo",
+        "profile": "mojombo.jpg"
+      },
+      {
+        "name": "wycats",
+        "profile": "wycats.jpg"
+      }
+    ],
+    "clogo": "track.png"
+  },
+  {
+    "id": 3,
+    "company": "Fix Platform errors",
+    "completion": "100",
+    "budget": "Not Set",
+    "members": [
+      {
+        "name": "pjhyett",
+        "profile": "pjhyett.jpg"
+      },
+      {
+        "name": "wycats",
+        "profile": "wycats.jpg"
+      }
+    ],
+    "clogo": "platform.png"
+  },
+  {
+    "id": 4,
+    "company": "Launch Our Mobile App",
+    "completion": "100",
+    "budget": "$20,500",
+    "members": [
+      {
+        "name": "mojombo",
+        "profile": "mojombo.jpg"
+      },
+      {
+        "name": "defunkt",
+        "profile": "defunkt.jpg"
+      },
+      {
+        "name": "pjhyett",
+        "profile": "pjhyett.jpg"
+      },
+      {
+        "name": "wycats",
+        "profile": "wycats.jpg"
+      }
+    ],
+    "clogo": "spotify.png"
+  },
+  {
+    "id": 5,
+    "company": "Add New Pricing Page",
+    "completion": "25",
+    "budget": "$500",
+    "members": [
+      {
+        "name": "defunkt",
+        "profile": "defunkt.jpg"
+      }
+    ],
+    "clogo": "pricing.png"
+  },
+  {
+    "id": 6,
+    "company": "Redesign new Online Shop",
+    "completion": "40",
+    "budget": "$2,000",
+    "members": [
+      {
+        "name": "defunkt",
+        "profile": "defunkt.jpg"
+      },
+      {
+        "name": "wycats",
+        "profile": "wycats.jpg"
+      }
+    ],
+    "clogo": "in.png"
+  }
+]
